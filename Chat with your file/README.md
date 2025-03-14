@@ -104,5 +104,5 @@ Customize chat settings via the sidebar:
 <h3 align="center">Chat UI</h3>
 
 <p align="center">
-  <img src="chat-ui.png" alt="Chat Interface" width="500">
+  <img src="chat-ui.png" alt="Chat Interface" width="800">
 </p>
