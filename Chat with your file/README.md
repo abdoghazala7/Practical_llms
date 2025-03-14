@@ -99,4 +99,10 @@ Customize chat settings via the sidebar:
 - **HuggingFace** for embeddings.
 - **LLMWhisperer & Groq** for AI-powered responses.
 
-![Chat Interface](chat-ui.png)
+
+
+<h3 align="center">Chat UI</h3>
+
+<p align="center">
+  <img src="chat-ui.png" alt="Chat Interface" width="500">
+</p>
